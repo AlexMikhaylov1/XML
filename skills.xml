@@ -1,0 +1,31 @@
+<?xml version="1.1" encoding="utf-8"?>
+<!DOCTYPE aboutmyskills>
+<skills>
+    <hardSkill1>Базовая теория (Что такое тестирование, багрепорты, документация, виды, методы, направления тестирования и т.п.) SDLC, STLC.</hardSkill1>
+    <hardSkill2>Что такое клиент-серверная архитектура.</hardSkill2>
+    <hardSkill3>HTTP Методы запросов на сервер.</hardSkill3>
+    <hardSkill4>Коды ответов HTTP сервера.</hardSkill4>
+    <hardSkill5>Структуры HTTP запросов и ответов.</hardSkill5>
+    <hardSkill6>Что такое JSON, XML. Их структура.</hardSkill6>
+    <hardSkill7>Тестирование API через Postman (JS, автотесты API).</hardSkill7>
+    <hardSkill8>Снятие и чтение логов c внешнего сервера.</hardSkill8>
+    <hardSkill9>Снифинг http web трафика через Charles и Fiddler.</hardSkill9>
+    <hardSkill10>Dev Tools веб браузеров (Google Chrome, FireFox).</hardSkill10>
+    <hardSkill11>VPN. (Как работает, зачем нужен, как использовать, варианты инструментов)</hardSkill11>
+    <hardSkill12>Мобильное тестирование.</hardSkill12>
+    <hardSkill13>Особенность iOS, Android, гайдлайны.</hardSkill13>
+    <hardSkill14>Сборка iOS приложений на XCode. (У кого нет Mac компьютера, просто посмотрят)</hardSkill14>
+    <hardSkill15>Сборка Android приложений на Android Studio.</hardSkill15>
+    <hardSkill16>ADB (управление андройд девайсами).</hardSkill16>
+    <hardSkill17>Настройка прокси и vpn на iOS и Android.</hardSkill17>
+    <hardSkill18>Перехват (сниффинг) мобильного трафика через Charles и Fiddler на iOS и Android.</hardSkill18>
+    <hardSkill19>Командная строка (terminal) Linux (копирование, создание, просмотр, перемещение файлов на серверах без графического интерфейса)</hardSkill19>
+    <hardSkill20>Основы bash скриптинг, автоматизация рутинных задач на сервере.</hardSkill20>
+    <hardSkill21>Доступ к удалённым серверам.</hardSkill21>
+    <hardSkill22>Основы SQL (Create, Delete, Drop, Insert Into, Select, From, Where, Join)</hardSkill22>
+    <hardSkill23>База данных Postgres (установка, настройка и использование)</hardSkill23>
+    <hardSkill24>Нереляционная база данных Redis (установка, настройка и использование).</hardSkill24>
+    <hardSkill25>Нагрузочное тестирование в Jmeter.</hardSkill25>
+    <hardSkill26>Методология разработки Scrum.</hardSkill26>
+    <hardSkill27>Python. (Изучение основ. Создание клиент серверного приложения)</hardSkill27>
+</skills>
