@@ -1,1 +1,28 @@
-
+<?xml version="1.1" encoding="utf-8"?>
+<!DOCTYPE BugReport>
+<BugReport> 
+    <Testing>
+        <TestingProject>Sport Shop Com</TestingProject>
+        <TestingAppVersion>v. 0.1</TestingAppVersion>
+        <Date>6/4/2022</Date>
+    </Testing>
+    <Tester>
+        <TesterName>Alexander Mikhaylov</TesterName>
+        <OS>Windows 10 21H2 64-bit</OS>
+        <Browser>Chrome 102.0.5005.63 64-bit</Browser>
+    </Tester>
+    <Bug>
+        <BugID>1</BugID>
+        <BugSummary>Can't add item to basket if basket already contains one item</BugSummary>
+        <StepToReproduce>Add any first item to empty basket, then add any second item to basket that alredy have first item</StepToReproduce>
+        <ExpectedResult>Basket contains two items</ExpectedResult>
+        <ActualResult>Basket contains only first item</ActualResult>
+        <AdditionalDescription>No dependencies found on which items are added as first and second</AdditionalDescription>
+    </Bug>
+    <Tracking>
+        <BugSeverity>S3 Critical</BugSeverity>
+        <BugPriority>P1 High</BugPriority>
+        <Status>Assigned</Status>
+        <AssignedTo>Kristina C.</AssignedTo>
+    </Tracking>
+</BugReport>
